@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9WE4dqQ+nK4rVmPk5as2VWZ/oOl4aZqIIhy1JUWvClqyDV6FtXWlSs2QqJ046G8BQEf1eVnVwCcWKRIKGnUwMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\ejercico 2\\ejercico 2\\ejercico 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

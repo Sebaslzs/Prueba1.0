@@ -1,0 +1,19 @@
+﻿@model TipCalculator.Models.TipCalculatorModel
+
+<h1>Tip Calculator</h1>
+
+@using (Html.BeginForm("CalculateTip", "Home", FormMethod.Post))
+{
+    <div>
+        <label for="BillAmount">Bill Amount:</label>
+        <input type="text" id="BillAmount" name="BillAmount" value="@Model.BillAmount" />
+        @Html.ValidationMessageFor(model => model.BillAmount)
+    </div>
+    <div>
+        <label for="TipPercentage">Tip Percentage:</label>
+        <input type="text" id="TipPercentage" name="TipPercentage" value="@Model.TipPercentage" />
+        @Html.ValidationMessageFor(model => model.TipPercentage)
+    </div>
+    <button type="submit">Calculate Tip</button>
+}
+
