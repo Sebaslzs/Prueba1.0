@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cuimIgSVOSokJBc/KhSA5P3gco5Pg8PInJRwuGwhFrqspyss6gA7Y4/ga50hvqjPkKQYIRLghAQc5UtA72ck5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de nota\\Gestor de nota\\Gestor de nota.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDCdGVIaSkqbpVbawhamoMr8iFD23koAkWbic0+z+bevlu5qxb584vb6EChMAM4/VvTTkI/eVBwa0UzjzZPzfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Cronometro online\\Cronometro online\\Cronometro online.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
