@@ -1,0 +1,16 @@
+﻿@model MyTodoApp.Models.TodoTask
+
+<h2>Create Task</h2>
+<form asp-action="Create">
+    <div>
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" />
+    </div>
+    <div>
+        <label asp-for="IsCompleted">Completed</label>
+        <input asp-for="IsCompleted" />
+    </div>
+    <div>
+        <button type="submit">Create</button>
+    </div>
+</form>

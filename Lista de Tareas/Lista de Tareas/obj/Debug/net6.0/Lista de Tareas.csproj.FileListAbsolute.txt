@@ -1,0 +1,40 @@
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\Lista de Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\Lista de Tareas.AssemblyInfoInputs.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\Lista de Tareas.AssemblyInfo.cs
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\Lista de Tareas.csproj.CoreCompileInputs.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\Lista de Tareas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\Lista de Tareas.RazorAssemblyInfo.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\Lista de Tareas.RazorAssemblyInfo.cs
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\Lista de Tareas.sourcelink.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\appsettings.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\Lista de Tareas.staticwebassets.runtime.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\Lista de Tareas.exe
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\Lista de Tareas.deps.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\Lista de Tareas.runtimeconfig.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\Lista de Tareas.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\Lista de Tareas.pdb
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\staticwebassets\msbuild.Lista de Tareas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\staticwebassets\msbuild.build.Lista de Tareas.props
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lista de Tareas.props
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lista de Tareas.props
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\scopedcss\bundle\Lista de Tareas.styles.css
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\scopedcss\projectbundle\Lista de Tareas.bundle.scp.css
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\Lista de.841B0814.Up2Date
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\Lista de Tareas.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\refint\Lista de Tareas.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\Lista de Tareas.pdb
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\Lista de Tareas.genruntimeconfig.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Lista de Tareas\Lista de Tareas\obj\Debug\net6.0\ref\Lista de Tareas.dll

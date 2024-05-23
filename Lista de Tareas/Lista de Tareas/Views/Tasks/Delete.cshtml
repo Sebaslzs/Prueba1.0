@@ -1,0 +1,15 @@
+﻿@model MyTodoApp.Models.TodoTask
+
+<h2>Delete Task</h2>
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Id" />
+    <div>
+        <label>Description: @Model.Description</label>
+    </div>
+    <div>
+        <label>Completed: @Model.IsCompleted</label>
+    </div>
+    <div>
+        <button type="submit">Delete</button>
+    </div>
+</form>

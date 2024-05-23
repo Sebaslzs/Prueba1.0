@@ -1,0 +1,17 @@
+﻿@model MyTodoApp.Models.TodoTask
+
+<h2>Edit Task</h2>
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+    <div>
+        <label asp-for="Description">Description</label>
+        <input type="text" asp-for="Description" />
+    </div>
+    <div>
+        <label asp-for="IsCompleted">Completed</label>
+        <input type="checkbox" asp-for="IsCompleted" />
+    </div>
+    <div>
+        <button type="submit">Save</button>
+    </div>
+</form>
