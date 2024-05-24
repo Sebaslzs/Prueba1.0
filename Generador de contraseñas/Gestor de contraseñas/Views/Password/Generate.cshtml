@@ -1,0 +1,40 @@
+﻿@model PasswordGeneratorMvc.Models.PasswordOptions
+@{
+    ViewData["Title"] = "Generate Password";
+}
+
+<h2>Generate Password</h2>
+
+<form asp-action="Generate" method="post">
+    <div>
+        <label for="Length">Length</label>
+        <input type="number" asp-for="Length" min="1" />
+    </div>
+    <div>
+        <label for="IncludeLowercase">Include Lowercase</label>
+        <input type="checkbox" asp-for="IncludeLowercase" />
+    </div>
+    <div>
+        <label for="IncludeUppercase">Include Uppercase</label>
+        <input type="checkbox" asp-for="IncludeUppercase" />
+    </div>
+    <div>
+        <label for="IncludeNumbers">Include Numbers</label>
+        <input type="checkbox" asp-for="IncludeNumbers" />
+    </div>
+    <div>
+        <label for="IncludeSymbols">Include Symbols</label>
+        <input type="checkbox" asp-for="IncludeSymbols" />
+    </div>
+    <div>
+        <button type="submit">Generate</button>
+    </div>
+</form>
+
+@if (ViewBag.GeneratedPassword != null)
+{
+    <div>
+        <h3>Your Generated Password:</h3>
+        <p>@ViewBag.GeneratedPassword</p>
+    </div>
+}

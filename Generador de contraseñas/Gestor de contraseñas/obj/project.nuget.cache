@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BPGuaCJA/M+AGCzR9+O8WnIsRDLpcG4YhdDOwPUbrssc+zV8JgulUExEzOb/haicCPgUyBzV/sK/pF5DQxaqfw==",
+  "dgSpecHash": "4T3pcKUbpyIDS0nLyJ3P0dNJQADIjSwyeelkF5Wsi9/qaOxmlcjOygmdcKEGfU5GtA/R/X/84kXzh8WXio6ciA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de contraseñas\\Gestor de contraseñas\\Gestor de contraseñas.csproj",
+  "projectFilePath": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Generador de contraseñas\\Gestor de contraseñas\\Gestor de contraseñas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
     "C:\\Users\\LSCR\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de contraseñas\\Gestor de contraseñas\\Gestor de contraseñas.csproj",
+      "projectUniqueName": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Generador de contraseñas\\Gestor de contraseñas\\Gestor de contraseñas.csproj",
       "projectName": "Gestor de contraseñas",
-      "projectPath": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de contraseñas\\Gestor de contraseñas\\Gestor de contraseñas.csproj",
+      "projectPath": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Generador de contraseñas\\Gestor de contraseñas\\Gestor de contraseñas.csproj",
       "packagesPath": "C:\\Users\\LSCR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de contraseñas\\Gestor de contraseñas\\obj\\",
+      "outputPath": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Generador de contraseñas\\Gestor de contraseñas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LSCR\\AppData\\Roaming\\NuGet\\NuGet.Config",
