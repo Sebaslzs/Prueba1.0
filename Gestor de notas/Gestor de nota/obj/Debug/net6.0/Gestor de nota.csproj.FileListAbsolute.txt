@@ -1,0 +1,70 @@
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\appsettings .json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\appsettings.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Gestor de nota.staticwebassets.runtime.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Gestor de nota.exe
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Gestor de nota.deps.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Gestor de nota.runtimeconfig.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Gestor de nota.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Gestor de nota.pdb
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\Gestor de nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\Gestor de nota.AssemblyInfoInputs.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\Gestor de nota.AssemblyInfo.cs
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\Gestor de nota.csproj.CoreCompileInputs.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\Gestor de nota.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\Gestor de nota.RazorAssemblyInfo.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\Gestor de nota.RazorAssemblyInfo.cs
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\Gestor de nota.sourcelink.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\staticwebassets\msbuild.Gestor de nota.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\staticwebassets\msbuild.build.Gestor de nota.props
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gestor de nota.props
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gestor de nota.props
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\scopedcss\bundle\Gestor de nota.styles.css
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\scopedcss\projectbundle\Gestor de nota.bundle.scp.css
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\Gestor de nota.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\refint\Gestor de nota.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\Gestor de nota.pdb
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\Gestor de nota.genruntimeconfig.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\ref\Gestor de nota.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\Gestor de nota.csproj.AssemblyReference.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Gestor de notas\Gestor de nota\obj\Debug\net6.0\Gestor d.D5570711.Up2Date

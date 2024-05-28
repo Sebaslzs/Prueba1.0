@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cronometro online")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43d2216032b0192836770b51765a958bf3ccf85c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd46ca005b6c1a2679485b7c409240773bff545b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cronometro online")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cronometro online")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

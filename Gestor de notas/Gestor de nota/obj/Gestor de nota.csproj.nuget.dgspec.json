@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de nota\\Gestor de nota\\Gestor de nota.csproj": {}
+    "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de notas\\Gestor de nota\\Gestor de nota.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de nota\\Gestor de nota\\Gestor de nota.csproj": {
+    "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de notas\\Gestor de nota\\Gestor de nota.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de nota\\Gestor de nota\\Gestor de nota.csproj",
+        "projectUniqueName": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de notas\\Gestor de nota\\Gestor de nota.csproj",
         "projectName": "Gestor de nota",
-        "projectPath": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de nota\\Gestor de nota\\Gestor de nota.csproj",
+        "projectPath": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de notas\\Gestor de nota\\Gestor de nota.csproj",
         "packagesPath": "C:\\Users\\LSCR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de nota\\Gestor de nota\\obj\\",
+        "outputPath": "C:\\Users\\LSCR\\Music\\variado u\\ejercicios pg mvc\\Gestor de notas\\Gestor de nota\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LSCR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.30, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.30, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.30, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.30, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,4 +1,13 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿document.addEventListener('DOMContentLoaded', function () {
+    function updateElapsedTime() {
+        fetch('/Stopwatch/UpdateElapsedTime', {
+            method: 'POST'
+        })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('elapsedTime').innerText = data.elapsedTime;
+            });
+    }
 
-// Write your JavaScript code.
+    setInterval(updateElapsedTime, 1000);
+});

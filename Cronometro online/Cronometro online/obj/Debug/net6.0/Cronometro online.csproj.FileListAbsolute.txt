@@ -1,0 +1,31 @@
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\bin\Debug\net6.0\appsettings.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\bin\Debug\net6.0\Cronometro online.staticwebassets.runtime.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\bin\Debug\net6.0\Cronometro online.exe
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\bin\Debug\net6.0\Cronometro online.deps.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\bin\Debug\net6.0\Cronometro online.runtimeconfig.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\bin\Debug\net6.0\Cronometro online.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\bin\Debug\net6.0\Cronometro online.pdb
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\Cronometro online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\Cronometro online.AssemblyInfoInputs.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\Cronometro online.AssemblyInfo.cs
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\Cronometro online.csproj.CoreCompileInputs.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\Cronometro online.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\Cronometro online.RazorAssemblyInfo.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\Cronometro online.RazorAssemblyInfo.cs
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\Cronometro online.sourcelink.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\staticwebassets\msbuild.Cronometro online.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\staticwebassets\msbuild.build.Cronometro online.props
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cronometro online.props
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cronometro online.props
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\scopedcss\bundle\Cronometro online.styles.css
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\scopedcss\projectbundle\Cronometro online.bundle.scp.css
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\Cronometro online.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\refint\Cronometro online.dll
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\Cronometro online.pdb
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\Cronometro online.genruntimeconfig.cache
+C:\Users\LSCR\Music\variado u\ejercicios pg mvc\Cronometro online\Cronometro online\obj\Debug\net6.0\ref\Cronometro online.dll

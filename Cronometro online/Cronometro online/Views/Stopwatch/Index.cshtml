@@ -1,0 +1,37 @@
+﻿@model StopwatchApp.Models.StopwatchModel
+
+@{
+    ViewData["Title"] = "Stopwatch";
+}
+
+<h1>Stopwatch</h1>
+
+<div>
+    <h2 id="elapsedTime">@Model.ElapsedTime.ToString(@"hh\:mm\:ss")</h2>
+    <form asp-action="Start" method="post">
+        <button type="submit">Start</button>
+    </form>
+    <form asp-action="Pause" method="post">
+        <button type="submit">Pause</button>
+    </form>
+    <form asp-action="Reset" method="post">
+        <button type="submit">Reset</button>
+    </form>
+    <form asp-action="Lap" method="post">
+        <button type="submit">Lap</button>
+    </form>
+</div>
+
+<h2>Laps</h2>
+<ul>
+    @foreach (var lap in Model.Laps)
+    {
+        <li>@lap.Time.ToString(@"hh\:mm\:ss")</li>
+    }
+</ul>
+
+<a href="/Home/Index">Back to Home</a>
+
+@section Scripts {
+    <script src="~/js/site.js"></script>
+}
