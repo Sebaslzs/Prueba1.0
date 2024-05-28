@@ -4,6 +4,21 @@
     <title>Memory Game - Play</title>
 </head>
 <body>
-    <!-- Implementar la interfaz para jugar el juego -->
+    <h1>Memory Game</h1>
+    <div id="game-board">
+        @foreach (var card in Model.Cards)
+        {
+            <div class="card @(card.IsFaceUp ? "face-up" : "") @(card.IsMatched ? "matched" : "")">
+                <img src="@card.ImageUrl" alt="Card Image" />
+            </div>
+        }
+    </div>
+    <button id="start-btn">Start Game</button>
+    <button id="restart-btn" style="display: none;">Restart Game</button>
+    <button id="end-btn">End Game</button>
+
+    <script>
+        // Implementar lógica JavaScript para manejar eventos del juego
+    </script>
 </body>
 </html>
