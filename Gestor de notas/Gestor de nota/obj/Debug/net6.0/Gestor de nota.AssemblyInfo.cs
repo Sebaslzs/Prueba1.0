@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gestor de nota")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd46ca005b6c1a2679485b7c409240773bff545b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7100a76bbb0b73e942f0d9fced0aa5b58f3c539d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gestor de nota")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gestor de nota")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
