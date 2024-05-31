@@ -1,0 +1,18 @@
+﻿@model MemoryGame.Models.Game
+
+@{
+    ViewData["Title"] = "Memory Game - Level " + Model.Level;
+}
+
+<h2>Memory Game - Level @Model.Level</h2>
+
+<div id="game-board">
+    @foreach (var card in Model.Cards)
+    {
+        <partial name="_Card" model="card" />
+    }
+</div>
+
+@section Scripts {
+    <script src="~/js/memory-game.js"></script>
+}
