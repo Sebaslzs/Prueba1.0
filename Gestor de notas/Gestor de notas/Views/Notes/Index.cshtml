@@ -1,0 +1,35 @@
+﻿@model IEnumerable<NotesApp.Models.Note>
+
+@{
+    ViewData["Title"] = "Notes";
+}
+
+<h2>Notes</h2>
+
+<p>
+    <a href="/Notes/Create">Create New Note</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var note in Model)
+        {
+            <tr>
+                <td>@note.Title</td>
+                <td>@note.Category.Name</td>
+                <td>
+                    <a href="/Notes/Details/@note.Id">View</a> |
+                    <a href="/Notes/Edit/@note.Id">Edit</a> |
+                    <a href="/Notes/Delete/@note.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

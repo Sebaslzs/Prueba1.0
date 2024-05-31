@@ -1,0 +1,30 @@
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\bin\Debug\net6.0\appsettings.json
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\bin\Debug\net6.0\Gestor de notas.staticwebassets.runtime.json
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\bin\Debug\net6.0\Gestor de notas.exe
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\bin\Debug\net6.0\Gestor de notas.deps.json
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\bin\Debug\net6.0\Gestor de notas.runtimeconfig.json
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\bin\Debug\net6.0\Gestor de notas.dll
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\bin\Debug\net6.0\Gestor de notas.pdb
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\Gestor de notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\Gestor de notas.AssemblyInfoInputs.cache
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\Gestor de notas.AssemblyInfo.cs
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\Gestor de notas.csproj.CoreCompileInputs.cache
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\Gestor de notas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\Gestor de notas.RazorAssemblyInfo.cache
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\Gestor de notas.RazorAssemblyInfo.cs
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\staticwebassets\msbuild.Gestor de notas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\staticwebassets\msbuild.build.Gestor de notas.props
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gestor de notas.props
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gestor de notas.props
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\scopedcss\bundle\Gestor de notas.styles.css
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\scopedcss\projectbundle\Gestor de notas.bundle.scp.css
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\Gestor de notas.dll
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\refint\Gestor de notas.dll
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\Gestor de notas.pdb
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\Gestor de notas.genruntimeconfig.cache
+C:\Users\LSCR\source\repos\Gestor de notas\Gestor de notas\obj\Debug\net6.0\ref\Gestor de notas.dll
